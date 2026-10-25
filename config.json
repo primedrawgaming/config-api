@@ -11,7 +11,7 @@
   },
   "app_store_url": "",
   "play_store_url": "",
-  "health_check": "https://pdg.restro.online/api/health",
+  "health_check": "https://pdg.restro.online/api/v1/health",
   "base_url": "https://pdg.restro.online/api",
   "app_base_url": "https://pdg.restro.online/api",
   "reveal_time": 2,
