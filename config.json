@@ -12,7 +12,7 @@
   "app_store_url": "",
   "play_store_url": "",
   "health_check": "https://pdg.restro.online/api/health",
-  "base_url": "https://pdg.restro.online/api/api",
+  "base_url": "https://pdg.restro.online/api",
   "app_base_url": "https://pdg.restro.online/api",
   "reveal_time": 2,
   "time_zone": "Asia/Kolkata",
