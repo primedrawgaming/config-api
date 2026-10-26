@@ -1,24 +1,8 @@
 {
-  "version": "1.0.0",
-  "is_force_update": true,
-  "android": {
-    "version": "1.0.0",
-    "is_force_update": true
-  },
-  "ios": {
-    "version": "1.0.0",
-    "is_force_update": false
-  },
-  "app_store_url": "",
-  "play_store_url": "",
-  "health_check": "https://pdg.restro.online/api/v1/health",
-  "base_url": "https://pdg.restro.online/api/v1",
-  "app_base_url": "https://pdg.restro.online/api/v1",
+  "base_url": "https://pdg.restro.online/api",
   "reveal_time": 2,
   "time_zone": "Asia/Kolkata",
   "socket_url": "wss://ws-ap2.pusher.com/app/1a79f7cc2cd8a72044ed?protocol=7&client=js&version=8.4.0&flash=false",
   "logo": "https://pdg.restro.online/images/app-logo/small-logo.jpg",
-  "contact_us": "",
   "privacy_policy": "https://primedrawgaming.github.io/config-api/privacy-policy",
-  "is_live": false
 }
