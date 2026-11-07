@@ -1,0 +1,8 @@
+{
+  "base_url": "https://games-center.online/api",
+  "reveal_time": 2,
+  "time_zone": "Asia/Phnom_Penh",
+  "socket_url": "wss://games-center.online/app/4ab70bc597c5109e873e?protocol=7&client=js&version=8.4.0&flash=false",
+  "logo": "https://games-center.online/images/app-logo/small-logo.jpg",
+  "privacy_policy": "https://primedrawgaming.github.io/config-api/cambodia-privacy-policy"
+}
